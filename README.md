@@ -14,6 +14,17 @@ The project contains:
 
 All data is synthetic and created for portfolio use.
 
+## SQL Analysis Preview
+
+![Revenue by Product](01_revenue_by_product.png)
+
+![Top Customers by Spending](02_top_customers_by_spending.png)
+
+![Revenue by State](03_revenue_by_state.png)
+
+![Monthly Revenue](04_monthly_revenue.png)
+
+
 ## Tools
 
 - PostgreSQL
